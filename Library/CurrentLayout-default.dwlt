@@ -45,8 +45,8 @@ MonoBehaviour:
     y: 30
     width: 2546
     height: 1293
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 680, y: 492}
+  m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
   controlID: 123
 --- !u!114 &3
@@ -338,19 +338,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\C#\blockBreaker
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 783a0000
-    m_LastClickedID: 14968
+    m_SelectedIDs: ba420000
+    m_LastClickedID: 17082
     m_ExpandedIDs: 000000006e3a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bc390000
-      m_LastClickedID: 14780
-      m_ExpandedIDs: 5afbffff
+      m_SelectedIDs: 083a0000
+      m_LastClickedID: 14856
+      m_ExpandedIDs: c4e6ffff5afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 9.1688595, y: 5.7664056, z: -175.35057}
+    m_Target: {x: 8.246873, y: 3.5370398, z: -177.94383}
     speed: 2
-    m_Value: {x: 9.1688595, y: 5.7664056, z: -175.35057}
+    m_Value: {x: 8.246873, y: 3.5370398, z: -177.94383}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -616,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.027118
+    m_Target: 8.319513
     speed: 2
-    m_Value: 8.027118
+    m_Value: 8.319513
   m_Ortho:
     m_Target: 1
     speed: 2
